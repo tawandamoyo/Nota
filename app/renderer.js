@@ -1,0 +1,1 @@
+const openFileButton = document.querySelector('.open--file');
